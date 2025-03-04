@@ -38,10 +38,10 @@ When I’m not coding, you’ll find me:
 📸 **Capturing moments through photography** 📷  
 🚗 **Enjoying car rides & road trips** 🏎️  
 💻 **Diving into the latest tech trends** 🚀  
-🧘 **Practicing meditation & mindfulness** 🧘‍♂️  
+🧘 **Practicing meditation & mindfulness** 👁️  
 
 Let’s connect and **build something awesome together!** 🤝  
 
 ---
 📫 **Find me here:**  
-[💼 LinkedIn](#) | [🌐 Portfolio](#)  
+[💼 LinkedIn](https://www.linkedin.com/in/javier-valverde-solano/) | [🌐 Portfolio](https://curlydev.netlify.app/)  
