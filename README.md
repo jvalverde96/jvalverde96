@@ -34,6 +34,7 @@ Git 🔧 | Git Actions 🚦 | CI/CD ⏩ | Webpack 📦 | Agile (Scrum)
 ## 🎯 About Me  
 
 When I’m not coding, you’ll find me:  
+
 🌍 **Exploring new countries** ✈️  
 📸 **Capturing moments through photography** 📷  
 🚗 **Enjoying car rides & road trips** 🏎️  
